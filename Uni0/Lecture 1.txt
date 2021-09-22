@@ -1,0 +1,15 @@
+>>>>L1V2
+3D Graphics Pipelines
+Modeling -> Animation -> Rendering
+1 Object itself;
+2 Movement of an object;
+3 Creating realistic images, scenes etc.
+
+>>>L1V3
+*Text is a major part of CG;
+*Drawing was an early application;
+*1960: visibility (layers and lines);
+*1970: lighting (smooth lines, shading);
+*1980, 90: Rendering - Global Illumination (refraction, radiosity);
+*History of Computer Animation video;
+

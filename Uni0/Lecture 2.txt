@@ -1,0 +1,34 @@
+>>>>L2V1 Vectors
+*Vectors are use to store offsets, displacements and locations;
+*Vector addition a+b = b+a
+*||V|| = sqrt(a²+b²);
+*Dot (scalar) product ||a||||b||cosO, O = cos-1(ab/||a||||b||);
+*a x b = XaXb + YaYb;
+*Finding the cosine of angle between light source and surface for shading;
+*Finding projection of one fector on another;
+*Projection of b in a is:
+||b->a|| = ||B||cosO = ab/||a||
+b->a = (ab)/(||a||)² in a 
+
+>>>>L2V2 Cross Products
+*Cross Products:
+axb = -bxa
+||axb|| = ||a||||b||sinO
+*Right-hand rule;
+*Determinants for Cartesian Formula;
+
+>>>>L2V3 Coordinate Frames
+*Orthonormal bases/coordinate frames are important to represent points, positions and locations;
+*Coordinate frames is any set of 3 vextions so:
+||v|| = ||u|| = ||w|| = 1
+uv=vw=uw=0
+w = u x v
+p = (pu)u + (pv)v + (pw)w
+
+>>>>L2V4 Matrices
+*Can be used to transform points;
+*Array of numbers;
+*Matrix Multiplication;
+*(AB)^T = (B^T)(A^T)
+*AA^-1 = A^-1A = I 
+*(AB)^-1 = B^-1 A^-1
